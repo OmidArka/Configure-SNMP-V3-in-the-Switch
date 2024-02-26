@@ -7,7 +7,7 @@ Configure SNMP V3 in the Switch Cisco
 
 Or
 
-#snmp-server user IT ITProPlus v3 auth md5 PASSWORD priv des PASSWORD2
+#snmp-server user test_user test_group v3 auth md5 PASSWORD priv des PASSWORD2
 
 
 #access-list 1 permit 192.168.1.1
