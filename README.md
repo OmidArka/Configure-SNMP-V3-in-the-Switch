@@ -9,8 +9,8 @@ Or
 
 #access-list 1 permit 192.168.1.1
 
-# show running-config | incl snmp
+#show running-config | incl snmp
 
-# show snmp user 
+#show snmp user 
 
-# show snmp group
+#show snmp group
